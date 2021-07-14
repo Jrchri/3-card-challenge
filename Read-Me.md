@@ -40,7 +40,7 @@ Users should be able to:
 
 ## My process
 I created the basic HTML in atom.
-I created <div> for each color block in the 3-fold-challenge.
+I created a div for each color block in the 3-fold-challenge.
 From there I was able to style in CSS to look like the challenge example.
 
 ### Built with
