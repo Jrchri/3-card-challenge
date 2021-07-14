@@ -59,13 +59,17 @@ p {
 }
 
 .BUTTON_GGA-1:hover {
-  background: #D0D4DA;
+  background:hsl(31, 77%, 52%);
   border: solid #FFFFFF 1px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   border-radius: 25px;
   text-decoration: none;
+  font-variant:normal;
+  color:white;
 }
+
+
 
 .SUVs {
   display: inline-block;
@@ -109,12 +113,14 @@ p {
 }
 
 .BUTTON_GGA-2:hover {
-  background: #D0D4DA;
+  background:hsl(184, 100%, 22%);
   border: solid #FFFFFF 1px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   border-radius: 25px;
   text-decoration: none;
+  font-variant: normal;
+  color:white;
 }
 
 .Luxury {
@@ -162,10 +168,12 @@ p {
 }
 
 .BUTTON_GGA-3:hover {
-  background: #D0D4DA;
+  background:hsl(179, 100%, 13%);
   border: solid #FFFFFF 1px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   border-radius: 25px;
   text-decoration: none;
+  font-variant: normal;
+  color:white;
 }
