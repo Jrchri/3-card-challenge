@@ -1,0 +1,171 @@
+body {
+  width: 1440px;
+  height: 1440px;
+  margin-top: 40px;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display', sans-serif;
+  color: hsl(0, 0%, 95%);
+}
+
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.Sedans {
+  display: inline-block;
+  position: relative;
+  left: 290px;
+  bottom: 75px;
+  background-color: hsl(31, 77%, 52%);
+  width: 175px;
+  height: 350px;
+  padding: 60px;
+  border-radius: 3%;
+}
+
+.BUTTON_GGA-1 {
+  background: #EFF3F8;
+  background-image: -webkit-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -moz-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -ms-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -o-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -webkit-gradient(to bottom, #EFF3F8, #EDF0F4);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: hsl(31, 77%, 52%);
+  font-family: 'Big Shoulders Display', sans-serif;
+  width: 90px;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 19px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: none;
+  text-shadow: 1px 1px 20px #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+  top: 65px;
+}
+
+.BUTTON_GGA-1:hover {
+  background: #D0D4DA;
+  border: solid #FFFFFF 1px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+.SUVs {
+  display: inline-block;
+  position: relative;
+  left: 275px;
+  bottom: 75px;
+  background-color: hsl(184, 100%, 22%);
+  width: 175px;
+  height: 350px;
+  padding: 60px;
+}
+
+.BUTTON_GGA-2 {
+  background: #EFF3F8;
+  background-image: -webkit-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -moz-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -ms-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -o-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -webkit-gradient(to bottom, #EFF3F8, #EDF0F4);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: hsl(184, 100%, 22%);
+  font-family: 'Big Shoulders Display', sans-serif;
+  width: 90px;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 19px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: none;
+  text-shadow: 1px 1px 20px #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+  top: 65px;
+}
+
+.BUTTON_GGA-2:hover {
+  background: #D0D4DA;
+  border: solid #FFFFFF 1px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+.Luxury {
+  display: inline-block;
+  position: relative;
+  left: 270px;
+  bottom: 52px;
+  background-color: hsl(179, 100%, 13%);
+  width: 175px;
+  height: 350px;
+  padding: 60px;
+  border-top-right-radius: 3%;
+  border-bottom-right-radius: 3%;
+  margin: 150px 0;
+}
+
+.BUTTON_GGA-3 {
+  background: #EFF3F8;
+  background-image: -webkit-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -moz-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -ms-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -o-linear-gradient(top, #EFF3F8, #EDF0F4);
+  background-image: -webkit-gradient(to bottom, #EFF3F8, #EDF0F4);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: hsl(179, 100%, 13%);
+  font-family: 'Big Shoulders Display', sans-serif;
+  width: 90px;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 19px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: none;
+  text-shadow: 1px 1px 20px #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+  top: 43px;
+}
+
+.BUTTON_GGA-3:hover {
+  background: #D0D4DA;
+  border: solid #FFFFFF 1px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  text-decoration: none;
+}
